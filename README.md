@@ -8,10 +8,15 @@ Changed colors, squeezed and stretched elements, added particles, rotated elemen
 
 ## References
 https://kenney.nl/assets/puzzle-pack-2
+
 https://fontesk.com/dazed-and-condensed-font/
+
 https://yeun.github.io/open-color/
+
 https://wallpapercave.com/search?q=70s
+
 https://freesound.org/people/kevinkace/sounds/66777/
+
 https://freesound.org/people/MashedTatoes2/sounds/515643/
 
 ## Future Development
